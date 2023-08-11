@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">I am highly motivated and analytically-driven professional with 2+ years of exprience as Data Analyst, with a strong background in data analysis and BI tools to foster a data-driven culture and drive strategic decisions.</h3>
+<h3 align="center">I am a highly motivated and analytically-driven professional with 2+ years of experience as Data Analyst, with a strong background in data analysis and BI tools to foster a data-driven culture and drive strategic decisions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsingh1709" alt="ankitsingh1709" /></a> </p>
 
@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **supervised learning**
 
 - 👯 I’m looking to collaborate on **Data science**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Ankitsingh1709](https://github.com/Ankitsingh1709)
 
 - 💬 Ask me about **Data, Python, Power BI, SQL**
 
