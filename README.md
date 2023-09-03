@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">I am a highly motivated and analytically-driven professional with 2+ years of experience as Data Analyst, with a strong background in data analysis and BI tools to foster a data-driven culture and drive strategic decisions.</h3>
+<h3 align="center">I believe analytics is way more than just numbers or mathematics. Analysts is what we use in daily routine like, is it going to rain? Should I take an umbrella?  defining problem statements like this and then, gathering data to make a suitable action with said that I am a highly motivated and analytically-driven professional, with a strong background in data analysis and BI tools to foster a data-driven culture and drive strategic decisions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsingh1709" alt="ankitsingh1709" /></a> </p>
 
