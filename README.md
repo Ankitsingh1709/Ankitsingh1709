@@ -2,8 +2,7 @@
 <h3 align="center">I believe analytics is way more than just numbers or mathematics. Analysts is what we use in daily routine like, is it going to rain? Should I take an umbrella?  defining problem statements like this and then, gathering data to make a suitable action with said that I am a highly motivated and analytically-driven professional, with a strong background in data analysis and BI tools to foster a data-driven culture and drive strategic decisions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsingh1709" alt="ankitsingh1709" /></a> </p>
-
-- 🔭 I’m currently working on **Salary Prediction**
+- 🔭 I’m currently working on **Customer Churn in the energy sector**
 
 - 🌱 I’m currently learning **supervised learning**
 
@@ -11,7 +10,10 @@
 
 - 💬 Ask me about **Data, Python, Power BI, SQL**
 
+- 📉 Check out my Tableau Dashboards [here](https://public.tableau.com/app/profile/ankit8673)
+
 - 📫 How to reach me **ankitkumar2999@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
