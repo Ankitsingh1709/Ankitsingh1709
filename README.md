@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
-<h3 align="center">I am a highly motivated and analytically-driven professional, with a strong background in data analysis and BI tools to foster a data-driven culture and drive strategic decisions.This is my GitHub playground where I showcase a variety of data-driven projects and analyses.</h3>
+<h3 align="center">I am a highly motivated and analytically-driven professional, with a strong background in data analysis and BI tools to foster a data-driven culture and drive strategic decisions. This is my GitHub playground where I showcase a variety of data-driven projects and analyses.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitsingh1709" alt="ankitsingh1709" /></a> </p>
+
 ## What to Expect
 
 In this repository, you'll find a diverse range of projects, each telling a unique story through data. Whether it's machine learning, business analysis, or any other exciting data exploration, I've poured my enthusiasm into each project.
