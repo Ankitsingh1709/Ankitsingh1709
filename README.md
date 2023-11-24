@@ -17,8 +17,6 @@ In this repository, you'll find a diverse range of projects, each telling a uniq
 
 - 🌱 I’m currently learning **supervised learning**
 
-- 👯 I’m looking to collaborate on **Data science**
-
 - 💬 Ask me about **Data, Python, Power BI, SQL**
 
 - 📉 Check out my Tableau Dashboards [here](https://public.tableau.com/app/profile/ankit8673)
