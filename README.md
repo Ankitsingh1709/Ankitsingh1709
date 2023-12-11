@@ -20,6 +20,10 @@ In this repository, you'll find a diverse range of projects, each telling a uniq
 - [Quality Analysis Dashboard](https://github.com/Ankitsingh1709/Power_BI_Projects)
 - ......
 - 📉 Check out my Tableau Dashboards [here](https://public.tableau.com/app/profile/ankit8673)
+- Customer Analysis
+- Sales Dashboard
+- Customer churn Analysis
+- COVID 19 Analysis
   
 ## Why Stick Around
 
