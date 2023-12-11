@@ -7,6 +7,10 @@
 
 In this repository, you'll find a diverse range of projects, each telling a unique story through data. Whether it's machine learning, business analysis, or any other exciting data exploration, I've poured my enthusiasm into each project.
 
+## Here are the list of projects you can find:
+- [Medical Cost Prediction](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Medical%20Cost%20Prediction)
+- []
+
 ## Why Stick Around
 
 - **Experience**: With two years of practical data experience, I've honed my skills in data analysis.
