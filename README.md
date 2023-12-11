@@ -9,8 +9,12 @@ In this repository, you'll find a diverse range of projects, each telling a uniq
 
 ## Here are the list of projects you can find:
 - [Medical Cost Prediction](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Medical%20Cost%20Prediction)
-- []
-
+- [Manufacturing Data Analysis](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Manufacturing%20Data%20Analysis%20(ETL%20pipeline))
+- [Movie Data Analysis](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Movie%20Data%20Analysis)
+- [Salary_Prediction](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Salary_Prediction)
+- [Sales Performance Analysis](https://github.com/Ankitsingh1709/SQL-Sales-and-business-analysis)
+- [Telecom Customer Churn Prediction Model](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Telecom%20Customer%20Churn%20%20Prediction%20Model)
+  
 ## Why Stick Around
 
 - **Experience**: With two years of practical data experience, I've honed my skills in data analysis.
