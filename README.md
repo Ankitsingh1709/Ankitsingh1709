@@ -14,6 +14,12 @@ In this repository, you'll find a diverse range of projects, each telling a uniq
 - [Salary_Prediction](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Salary_Prediction)
 - [Sales Performance Analysis](https://github.com/Ankitsingh1709/SQL-Sales-and-business-analysis)
 - [Telecom Customer Churn Prediction Model](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Telecom%20Customer%20Churn%20%20Prediction%20Model)
+
+**Power BI Dashboards**
+- [Energy Consumptions Dashboard](https://github.com/Ankitsingh1709/Power_BI_Projects)
+- [Quality Analysis Dashboard](https://github.com/Ankitsingh1709/Power_BI_Projects)
+- ......
+- 📉 Check out my Tableau Dashboards [here](https://public.tableau.com/app/profile/ankit8673)
   
 ## Why Stick Around
 
@@ -27,7 +33,7 @@ In this repository, you'll find a diverse range of projects, each telling a uniq
 
 - 💬 Ask me about **Data, Python, Power BI, SQL**
 
-- 📉 Check out my Tableau Dashboards [here](https://public.tableau.com/app/profile/ankit8673)
+
 
 - 📫 How to reach me **ankitkumar2999@gmail.com**
 
