@@ -15,6 +15,7 @@ In this repository, you'll find a diverse range of projects, each telling a uniq
 - [Sales Performance Analysis](https://github.com/Ankitsingh1709/SQL-Sales-and-business-analysis)
 - [Telecom Customer Churn Prediction Model](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Telecom%20Customer%20Churn%20%20Prediction%20Model)
 - [EDA Price sensitivity analysis](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/EDA%20Price%20sensitivity%20analysis%20)
+- [Customer retention analysis](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Customer%20retention%20analysis)
 
 **Power BI Dashboards**
 - [Energy Consumptions Dashboard](https://github.com/Ankitsingh1709/Power_BI_Projects)
