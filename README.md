@@ -55,8 +55,10 @@
 
 | Project | Tools | Description |
 |---|---|---|
-| [LLM Benchmarking & Chatbot App](https://github.com/Ankitsingh1709/llm_projects) | Python, Gemini, Ollama, DeepSeek, Qwen | Benchmarks LLMs on speed, token efficiency & quality; builds a local chatbot |
-| [IIT Patna Gen AI Course](https://github.com/Ankitsingh1709/IIT-Patna-Gen-AI) | Python, Jupyter Notebook | Hands-on assignments from a 6-month Generative AI program at IIT Patna |
+| [LLM Model Comparison](https://github.com/Ankitsingh1709/llm_projects/tree/main/Comparing_model_token_%26_latency) | Python, Gemini 2.5 Flash, Qwen3, DeepSeek-R1 | Benchmarks multiple LLMs on response quality, speed, and token efficiency |
+| [Local Chatbot App v1](https://github.com/Ankitsingh1709/llm_projects/tree/main/Chatbot_app_v1) | Python, Ollama, DeepSeek-R1, Qwen2.5, Gemma, Phi3 | Built a local chatbot application running entirely on open-source LLMs via Ollama |
+| [LLM Fine-Tuning (LoRA / QLoRA)](https://github.com/Ankitsingh1709/llm_projects/tree/main/Fine_Tunning_LLM) | Python, PEFT, LoRA, QLoRA, Phi-3 | Applied parameter-efficient fine-tuning techniques (LoRA & QLoRA) to fine-tune Phi-3 on a custom text dataset |
+| [IIT Patna Gen AI Course](https://github.com/Ankitsingh1709/IIT-Patna-Gen-AI) | Python, Jupyter Notebook | Hands-on weekly assignments from a 6-month Generative AI program at IIT Patna |
 
 ### 📉 Tableau Dashboards
 Check out my Tableau Public profile 👉 [here](https://public.tableau.com/app/profile/ankit8673)
