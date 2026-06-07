@@ -15,7 +15,7 @@
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently working on **Customer Churn Prediction in the Energy Sector**
+- 🔭 Currently working on **Ai Visibility tool**
 - 🌱 Currently learning **Supervised Learning & LLM Fine-Tuning**
 - 🤖 Exploring **Generative AI & LLM benchmarking** (Gemini, DeepSeek, Qwen, Ollama)
 - 💬 Ask me about **Python, SQL, Power BI, Machine Learning, and Gen AI**
