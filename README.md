@@ -5,11 +5,6 @@
   Analytically-driven professional with a strong background in data analysis, BI tools, and machine learning — building data pipelines, predictive models, and AI-powered solutions that drive real business decisions.
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ankitsingh1709&theme=flat&no-frame=true&column=6" alt="ankitsingh1709" />
-  </a>
-</p>
 
 ---
 
