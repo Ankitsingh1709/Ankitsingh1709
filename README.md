@@ -39,8 +39,8 @@
 | [LLM Model Comparison](https://github.com/Ankitsingh1709/llm_projects/tree/main/Comparing_model_token_%26_latency) | Python, Gemini 2.5 Flash, Qwen3, DeepSeek-R1 | Benchmarks multiple LLMs for response quality, token usage, and latency. |
 | [Local Chatbot App v1](https://github.com/Ankitsingh1709/llm_projects/tree/main/Chatbot_app_v1) | Python, Ollama, DeepSeek-R1, Qwen2.5, Gemma, Phi3 | A local chatbot application running open-source models through Ollama. |
 | [LLM Fine-Tuning — LoRA / QLoRA](https://github.com/Ankitsingh1709/llm_projects/tree/main/Fine_Tunning_LLM) | Python, PEFT, LoRA, QLoRA, Phi-3 | Experiments with parameter-efficient fine-tuning techniques for language models. |
+| [Call Desk Agent](https://github.com/Ankitsingh1709/llm_projects/tree/main/Call-Desk-Agent) | Python, LangGraph, LangChain, FAISS, BM25, Streamlit | Agentic call-center QA and customer-care agent with hybrid RAG policy search, call lookup, weighted QA scoring, order tracking, role-based routing, and conversation memory. |
 | [RAG Techniques](https://github.com/Ankitsingh1709/RAG_Techniques) | Python, RAG, LLMs | Notebook tutorials covering advanced techniques for retrieval-augmented generation systems. |
-| [IIT Patna Gen AI Course](https://github.com/Ankitsingh1709/IIT-Patna-Gen-AI) | Python, Jupyter Notebook | Weekly assignments from a six-month Generative AI program at IIT Patna. |
 
 ### 🐍 Python · Machine Learning · EDA
 
