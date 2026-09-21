@@ -14,7 +14,6 @@
 - 🌱 Currently learning **RAG and Agentic AI**
 - 🤖 Exploring **Generative AI & LLM benchmarking** (Gemini, DeepSeek, Qwen, Ollama)
 - 💬 Ask me about **Python, SQL, Power BI, Machine Learning, and Gen AI**
-- 📫 Reach me at **ankitsingh.de@gmail.com**
 
 ---
 
