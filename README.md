@@ -20,13 +20,11 @@
 
 ---
 
-## ⭐ Featured Live Projects
+## ⭐ Featured Live Project
 
 | Project | Stack | Description |
 |---|---|---|
 | [Reflect.ai — Google Cloud AI Journal](https://github.com/Ankitsingh1709/gcloud-ideathon-project-1) · [**Live app ↗**](https://ai-journal-reflections-202050000797.us-central1.run.app) | React, TypeScript, Express, Firebase, Firestore, Gemini, Cloud Run | A private AI journal with streaming reflections, semantic memory search, voice journaling, mood insights, location tagging, and privacy-focused access controls. |
-| [No-Cost AI](https://github.com/Ankitsingh1709/no-cost-ai) · [**Live site ↗**](https://nocostai.vercel.app) | AI APIs, Web application | A curated collection of free AI services for chat, image, video, voice, and API use. |
-| [Understand Anything](https://github.com/Ankitsingh1709/Understand-Anything) · [**Live site ↗**](https://understand-anything.com) | Knowledge graphs, AI agents | Interactive knowledge graphs that help users explore, search, and ask questions about code and knowledge bases. |
 
 > **Google Cloud AI Journal:** [Open the running application](https://ai-journal-reflections-202050000797.us-central1.run.app) · [View the source code](https://github.com/Ankitsingh1709/gcloud-ideathon-project-1)
 
