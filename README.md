@@ -1,32 +1,37 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
-<h3 align="center">Data Analyst & AI Enthusiast | Python · SQL · Power BI · LLMs</h3>
+<h3 align="center">Data & BI Analyst · Frankfurt | SQL · Python · Power BI | GenAI agents with LangGraph & RAG</h3>
 
 <p align="center">
-  Analytically driven professional with a strong background in data analysis, BI tools, machine learning, and generative AI. I build data pipelines, predictive models, dashboards, and AI-powered products that turn data into useful decisions.
+  I automate reporting and build GenAI tools that take manual work off business teams. About five years of data work at PMI, Stellantis, Bosch and Daimler Truck.
 </p>
 
 <p align="center">
-  <a href="https://ai-journal-reflections-202050000797.us-central1.run.app"><strong>🚀 Try my live Google Cloud AI Journal</strong></a>
+  <a href="https://ankitsingh1709.github.io"><strong>🌐 Portfolio</strong></a> ·
+  <a href="https://www.linkedin.com/in/ankit-ankit"><strong>💼 LinkedIn</strong></a> ·
+  <a href="https://ai-journal-reflections-202050000797.us-central1.run.app"><strong>🚀 Live: Reflect.ai</strong></a>
 </p>
 
 ---
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently working on an **AI Visibility tool**
-- 🌱 Currently learning **RAG and Agentic AI**
-- 🤖 Exploring **Generative AI and LLM benchmarking** with Gemini, DeepSeek, Qwen, and Ollama
-- 💬 Ask me about **Python, SQL, Power BI, Machine Learning, and Generative AI**
+- 💼 Data & BI Analyst at **Philip Morris International** (via YER): Power BI reporting and data-quality automation for global customer service across 70+ markets
+- 📚 Preparing for **Microsoft Fabric Analytics Engineer (DP-600)**
+- 🤖 Building **agentic AI and RAG** tools with LangGraph, Gemini and local models
+- 💬 Ask me about **SQL, Power BI, Python and Generative AI**
+
+## 🏅 Certifications
+
+Microsoft **PL-300** Power BI Data Analyst · Microsoft **AI-900** Azure AI Fundamentals · **Google Cloud Gen AI Academy** APAC 2026 · **Generative AI & Agentic AI for Developers**, IIT Patna
 
 ---
 
-## ⭐ Featured Live Project
+## ⭐ Featured Live Projects
 
 | Project | Stack | Description |
 |---|---|---|
-| [Reflect.ai — Google Cloud AI Journal](https://github.com/Ankitsingh1709/gcloud-ideathon-project-1) · [**Live app ↗**](https://ai-journal-reflections-202050000797.us-central1.run.app) | React, TypeScript, Express, Firebase, Firestore, Gemini, Cloud Run | A private AI journal with streaming reflections, semantic memory search, voice journaling, mood insights, location tagging, and privacy-focused access controls. |
-
-> **Google Cloud AI Journal:** [Open the running application](https://ai-journal-reflections-202050000797.us-central1.run.app) · [View the source code](https://github.com/Ankitsingh1709/gcloud-ideathon-project-1)
+| [Reflect.ai — Google Cloud AI Journal](https://github.com/Ankitsingh1709/reflect-ai) · [**Live app ↗**](https://ai-journal-reflections-202050000797.us-central1.run.app) | React, TypeScript, Express, Firebase, Firestore, Gemini, Cloud Run | A private AI journal with streaming reflections, semantic memory search, voice journaling, mood insights, location tagging, and privacy-focused access controls. |
+| Drape · [**Live app ↗**](https://drape-173367747529.us-central1.run.app) | GenAI, Google Cloud Run | AI wardrobe and outfit-styling app, my own idea. |
 
 ---
 
@@ -40,18 +45,18 @@
 | [Local Chatbot App v1](https://github.com/Ankitsingh1709/llm_projects/tree/main/Chatbot_app_v1) | Python, Ollama, DeepSeek-R1, Qwen2.5, Gemma, Phi3 | A local chatbot application running open-source models through Ollama. |
 | [LLM Fine-Tuning — LoRA / QLoRA](https://github.com/Ankitsingh1709/llm_projects/tree/main/Fine_Tunning_LLM) | Python, PEFT, LoRA, QLoRA, Phi-3 | Experiments with parameter-efficient fine-tuning techniques for language models. |
 | [Call Desk Agent](https://github.com/Ankitsingh1709/llm_projects/tree/main/Call-Desk-Agent) | Python, LangGraph, LangChain, FAISS, BM25, Streamlit | Agentic call-center QA and customer-care agent with hybrid RAG policy search, call lookup, weighted QA scoring, order tracking, role-based routing, and conversation memory. |
-| [RAG Techniques](https://github.com/Ankitsingh1709/RAG_Techniques) | Python, RAG, LLMs | Notebook tutorials covering advanced techniques for retrieval-augmented generation systems. |
+| [Mirra — AI Visibility Audit](https://github.com/Ankitsingh1709/llm_projects/tree/main/Mirra_Ai_visibility_tool) | Python, Flask, Crawl4AI, Ollama | Scrapes a brand's web presence, asks 4 models how they see the brand, scores it 0–100 on 5 criteria and exports a PDF report. |
 
 ### 🐍 Python · Machine Learning · EDA
 
 | Project | Tools | Description |
 |---|---|---|
-| [Medical Cost Prediction](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Medical%20Cost%20Prediction) | Python, Scikit-learn | Predicts patient treatment costs using regression models. |
-| [Manufacturing Data Analysis — ETL](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Manufacturing%20Data%20Analysis%20(ETL%20pipeline)) | Python, PostgreSQL, dbt, Power BI | Builds an ETL workflow and analyzes manufacturing data. |
-| [Telecom Customer Churn Prediction](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Telecom%20Customer%20Churn%20%20Prediction%20Model) | Python, Scikit-learn, Pandas | Uses machine learning to identify customers at risk of churn. |
-| [Salary Prediction](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Salary_Prediction) | Python, Scikit-learn, Pandas | Predicts individual salaries from demographic and professional attributes. |
-| [Movie Data Analysis](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Movie%20Data%20Analysis) | Python, Pandas, Seaborn | Exploratory analysis of relationships between movie budgets, revenue, and ratings. |
-| [Customer Retention Analysis](https://github.com/Ankitsingh1709/Data_Analyst_Porfolio_projects/tree/main/Customer%20retention%20analysis) | Python, Pandas | Cohort analysis to measure customer retention over time. |
+| [Medical Cost Prediction](https://github.com/Ankitsingh1709/Data_Analyst_Portfolio_projects/tree/main/Medical%20Cost%20Prediction) | Python, Scikit-learn | Predicts patient treatment costs using regression models. |
+| [Manufacturing Data Analysis — ETL](https://github.com/Ankitsingh1709/Data_Analyst_Portfolio_projects/tree/main/Manufacturing%20Data%20Analysis%20(ETL%20pipeline)) | Python, PostgreSQL, dbt, Power BI | Builds an ETL workflow and analyzes manufacturing data. |
+| [Telecom Customer Churn Prediction](https://github.com/Ankitsingh1709/Data_Analyst_Portfolio_projects/tree/main/Telecom%20Customer%20Churn%20%20Prediction%20Model) | Python, Scikit-learn, Pandas | Uses machine learning to identify customers at risk of churn. |
+| [Salary Prediction](https://github.com/Ankitsingh1709/Data_Analyst_Portfolio_projects/tree/main/Salary_Prediction) | Python, Scikit-learn, Pandas | Predicts individual salaries from demographic and professional attributes. |
+| [Movie Data Analysis](https://github.com/Ankitsingh1709/Data_Analyst_Portfolio_projects/tree/main/Movie%20Data%20Analysis) | Python, Pandas, Seaborn | Exploratory analysis of relationships between movie budgets, revenue, and ratings. |
+| [Customer Retention Analysis](https://github.com/Ankitsingh1709/Data_Analyst_Portfolio_projects/tree/main/Customer%20retention%20analysis) | Python, Pandas | Cohort analysis to measure customer retention over time. |
 
 ### 🗄️ SQL
 
