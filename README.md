@@ -16,7 +16,6 @@
 ## 🚀 What I'm Up To
 
 - 💼 Data & BI Analyst at **Philip Morris International** (via YER): Power BI reporting and data-quality automation for global customer service across 70+ markets
-- 📚 Preparing for **Analytical Engineer**
 - 🤖 Building **agentic AI and RAG** tools with LangGraph, Gemini and local models
 - 💬 Ask me about **SQL, Power BI, Python and Generative AI**
 
